@@ -1,3 +1,4 @@
+[Project Demo Video](https://youtu.be/4enhyVUPgyk)
 # CareerNav AI — Career Navigation Platform
 
 A full-stack AI-powered career navigation platform that helps students and early-career professionals identify skill gaps and get personalized learning roadmaps.
