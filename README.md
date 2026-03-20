@@ -145,4 +145,9 @@ success_career_navigator/
 │   └── Dockerfile
 ├── docker-compose.yml
 └── README.md
+# AI Tools Used
+
+ChatGPT — used for debugging, code structuring, and documentation support
+
+Claude — used for generating and refining AI-based responses
 ```
